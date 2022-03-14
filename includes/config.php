@@ -1,9 +1,10 @@
 <?php 
 // DB credentials.
-define('DB_HOST','buxljcgpz1vtvlqk1fcd-mysql.services.clever-cloud.com');
-define('DB_USER','uq0fxcekwbtkmffk');
-define('DB_PASS','RNHK52eU1DOSH7Zzb0RZ');
-define('DB_NAME','buxljcgpz1vtvlqk1fcd');
+
+define('DB_HOST','bjp08r4b8d4evv8iblgx-mysql.services.clever-cloud.com');
+define('DB_USER','ufjejjolhsn8sxay');
+define('DB_PASS','yO5AKEKQ6cuMfD3t5A1A');
+define('DB_NAME','bjp08r4b8d4evv8iblgx');
 // Establish database connection.
 try
 {
